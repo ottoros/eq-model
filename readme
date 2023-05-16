@@ -1,4 +1,4 @@
-This repository contains the code for my master's thesis on supervised BN structure learning. Many of the functions in methods.py use code from https://github.com/xunzheng/notears/tree/master/notears and https://github.com/lihebi/DAG-EQ/tree/master.
+This repository contains the code for my master's thesis on supervised BN structure learning. Many of the functions in methods.py use code from https://github.com/xunzheng/notears/tree/master/notears (X. Zheng, B. Aragam, P. Ravikumar, and E. P. Xing. DAGs with NO TEARS: Continuous Optimization for Structure Learning. arXiv: 1803.01422, 2018.) and https://github.com/lihebi/DAG-EQ/tree/master (H. Li, Q. Xiao, and J. Tian. Supervised Whole DAG Causal Discovery. arXiv: 2006.04697, 2020.).
 
 ABSTRACT
 
